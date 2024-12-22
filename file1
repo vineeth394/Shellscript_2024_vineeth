@@ -1,2 +1,5 @@
-
+first line in dev branch
 line2 in file1 of dev branch
+third line in dev branch
+the second line is "line2 in file1 of dev branch"
+see whether 2nd line in file1 of dev branch stays as usaul in file1 of test branch or deletes
